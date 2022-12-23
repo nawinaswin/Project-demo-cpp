@@ -1,0 +1,3 @@
+/Users/naks/Downloads/NawinSakthivelan_optimalLocation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/naks/Downloads/NawinSakthivelan_optimalLocation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/naks/Downloads/NawinSakthivelan_optimalLocation/cmake-build-debug/CMakeFiles/NawinSakthivelan_optimalLocation.dir
