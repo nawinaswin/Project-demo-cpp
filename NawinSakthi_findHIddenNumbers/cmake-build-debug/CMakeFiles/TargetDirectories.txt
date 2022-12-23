@@ -1,0 +1,3 @@
+/Users/naks/Downloads/NawinSakthi_findHIddenNumbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/naks/Downloads/NawinSakthi_findHIddenNumbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/naks/Downloads/NawinSakthi_findHIddenNumbers/cmake-build-debug/CMakeFiles/NawinSakthi_findHIddenNumbers.dir
